@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1611860999
+DIR: _maps _maps\map_files _maps\map_files\IceBoxStation _maps\map_files\MetaStation _maps\map_files\MiniStation _maps\shuttles code code\__DEFINES code\_globalvars\lists code\_onclick code\_onclick\hud code\datums code\datums\mapgen code\game code\game\objects code\game\objects\items 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 513.1523
+WINDOW: _maps\map_files\MiniStation\MiniStation.dmm;_maps\shuttles\emergency_construction.dmm;_maps\shuttles\emergency_cruise.dmm;_maps\shuttles\emergency_scrapheap.dmm;_maps\shuttles\emergency_meteor.dmm;_maps\shuttles\emergency_omega.dmm;_maps\shuttles\emergency_donut.dmm
+FILE: _maps\shuttles\emergency_donut.dmm
+*/
+// END_INTERNALS

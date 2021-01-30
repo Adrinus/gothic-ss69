@@ -1,0 +1,98 @@
+{
+	"version": 1,
+	"map_name": "MiniStation",
+	"map_path": "map_files/MiniStation",
+	"map_file": "MiniStation.dmm",
+	"shuttles": {
+		"cargo": "cargo_box",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_meta",
+		"emergency": "emergency_meta"
+	},
+	"job_changes": {
+		"lawyer": {
+			"total_positions": 0,
+			"spawn_positions": 0
+		},
+		"paramedic": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"virologist": {
+			"total_positions": 0,
+			"spawn_positions": 0
+		},
+		"curator": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"psychologist": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"chaplain": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"mime": {
+			"total_positions": 0,
+			"spawn_positions": 0
+		},
+		"cargo_technician": {
+			"total_positions": 2,
+			"spawn_positions": 1
+		},
+		"botanist": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"assistant": {
+			"total_positions": 3,
+			"spawn_positions": 3
+		},
+		"bartender": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"chemist": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"cook": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"geneticist": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"medical_doctor": {
+			"total_positions": 2,
+			"spawn_positions": 2
+		},
+		"scientist": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"roboticist": {
+			"total_positions": 1,
+			"spawn_positions": 1
+		},
+		"security_officer": {
+			"total_positions": 2,
+			"spawn_positions": 2
+		},
+		"shaft_miner": {
+			"total_positions": 2,
+			"spawn_positions": 2
+		},
+		"station_engineer": {
+			"total_positions": 2,
+			"spawn_positions": 2
+		},
+		"warden": {
+			"total_positions": 0,
+			"spawn_positions": 0
+		}
+	}
+}
