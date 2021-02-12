@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"map_name": "OutpostZeta",
+	"map_path": "map_files/OutpostZeta",
+	"map_file": "OutpostZeta.dmm",
+	"shuttles": {
+		"cargo": "cargo_box",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_meta",
+		"emergency": "emergency_meta"
+	}
+}

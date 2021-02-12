@@ -13,9 +13,14 @@ Format:
 	votable (is this map votable)
 endmap
 
-map ministation
+map outpostzeta
 	#default
 	minplayers 0
+	maxplayers 10
+endmap
+
+map ministation
+	minplayers 10
 	maxplayers 15
 endmap
 
