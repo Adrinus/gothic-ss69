@@ -2,11 +2,11 @@
 /*
 MAP_ZOOM: 1.000
 LAST_COMPILE_TIME: 1613240729
-DIR: _maps _maps\map_files _maps\map_files\debug _maps\map_files\Deltastation _maps\map_files\generic _maps\map_files\IceBoxStation _maps\map_files\KiloStation _maps\map_files\Mafia _maps\map_files\MetaStation _maps\map_files\Mining _maps\map_files\MiniStation _maps\map_files\OutpostZeta 
+DIR: _maps _maps\map_files _maps\map_files\debug _maps\map_files\Deltastation _maps\map_files\generic _maps\map_files\IceBoxStation _maps\map_files\KiloStation _maps\map_files\Mafia _maps\map_files\MetaStation _maps\map_files\Mining _maps\map_files\OutpostZeta 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1539
-WINDOW: _maps\map_files\OutpostZeta\OutpostZeta.dmm;_maps\map_files\MiniStation\MiniStation.dmm
+WINDOW: _maps\map_files\OutpostZeta\OutpostZeta.dmm
 FILE: _maps\map_files\OutpostZeta\OutpostZeta.dmm
 */
 // END_INTERNALS
