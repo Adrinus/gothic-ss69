@@ -6,3 +6,4 @@
 
 Adrinus = Game Master
 Rand0mised = Manager
+DeuteriumD2o = Manager
